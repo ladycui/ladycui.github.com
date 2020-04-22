@@ -21,18 +21,6 @@
 java开发工程师
          </span>
  </center></p>
-### <img src="assets/info-solid.svg" width="30px" height="20px"> 摘要
-
----
-
- * 本硕211、计算机专业、数模竞赛、2年工作经验（1.5平安科技 + 1律金所实习)、熟悉常用数据结构和算法；
-
-* 主要技术栈：java8 | Redis| MySQL | spring boot  | RabbitMQ
-
-* 2个项目的核心开发，参与项目设计，追求bug free，持续学习，团队协作
-
-  
-
 ## <img src="assets/graduation-cap-solid.svg" width="30px" height="20px"> 教育经历
 
 - 学士，西安电子科技大学，信息管理与信息系统
@@ -43,7 +31,7 @@ java开发工程师
 
 * 数据结构 / 算法 / 设计模式 / 多线程<br>
 * Java 8 / Redis / Spring boot / MySQL / RocketMQ / RabbitMQ / JUnit / Git / Arthur
-* 英语交流无障碍  CET-6
+* 英语交流无障碍  CET-6; 驾照（C1）
 
 ## <img src="assets/briefcase-solid.svg" width="30px" height="20px"> 工作经历
 
@@ -74,7 +62,3 @@ java开发工程师
 ## <img src="assets/info-circle-solid.svg" width="30px" height="20px"> 个人关键词
 - 乒乓球、爬山、 kindle、西部电影；
 - 乐于分享，团队协作；快速学习，持续学习；不惧压力，直面挑战。
-
-
-
-
